@@ -1,4 +1,4 @@
 # FirstRepo
 This is my first repositary
 <br>
-Auther - Ketan Kawade
+Auther - Ketan Ramnath Kawade
